@@ -1,0 +1,29 @@
+{
+  "name": "@chieflogic/adzerk-angular-sdk",
+  "version": "0.1.17",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chieflogic/adzerk-angular-sdk"
+  },
+  "author": {
+    "name": "Chief Logic, LLC",
+    "email": "oss@chieflogic.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/chieflogic/adzerk-angular-sdk/issues"
+  },
+  "main": "adzerk-angular-sdk.umd.js",
+  "module": "adzerk-angular-sdk.js",
+  "jsnext:main": "adzerk-angular-sdk.js",
+  "typings": "adzerk-angular-sdk.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "@angular/common": "^5.2.6",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
