@@ -30,7 +30,7 @@
     "url": "https://github.com/chieflogic/adzerk-angular-sdk/issues"
   },
   "devDependencies": {
-    "@angular/cli": "^1.7.1",
+    "@angular/cli": "^14.2.8",
     "@angular/common": "^5.2.6",
     "@angular/compiler": "^5.0.0",
     "@angular/compiler-cli": "^5.0.0",
